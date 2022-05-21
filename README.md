@@ -10,6 +10,6 @@ You can enter a total of six words, meaning you can enter five burner words from
 <br>
 You will be given six attempts first, The number of attempts keep on reducing while leveling up. You have to solve the Puzzle within given attempts respectively.
 
-## Some Snaps of the App
+
 
 
