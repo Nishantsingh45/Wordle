@@ -1,6 +1,8 @@
 # Wordle
 
 It's fun, simple and, like a crossword.
+## Link to Download app :
+Link : https://appho.st/d/InFupc7t
 
 ## Getting Started
 
@@ -13,3 +15,5 @@ You will be given six attempts first, The number of attempts keep on reducing wh
 
 
 
+![sss](https://user-images.githubusercontent.com/68099982/169686774-343e167b-740f-40f5-999e-27a7b48cc21b.JPG)
+![sss2](https://user-images.githubusercontent.com/68099982/169686779-30940fea-6cf0-4c49-94a0-893200085af7.JPG)
